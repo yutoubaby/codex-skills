@@ -1,0 +1,4 @@
+interface:
+  display_name: "提示词优化器"
+  short_description: "将模糊需求改写为清晰、可执行、可验证且带边界的提示词"
+  default_prompt: "Use $prompt-optimizer to improve the following prompt: [paste prompt]."
