@@ -1,0 +1,2 @@
+edge-tts>=6,<8
+pillow>=10,<12
